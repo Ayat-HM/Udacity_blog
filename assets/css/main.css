@@ -103,3 +103,13 @@ body {}
     font-style: italic;
     color: gray;
 }
+
+.post-small-img {
+    width: 25%;
+    border-radius: 10px;
+
+}
+
+.post-small-fig {
+    margin: 1em 0px;
+}
