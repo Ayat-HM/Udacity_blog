@@ -1,5 +1,4 @@
-/*@import "media.css"screen and (max-width: 768px);
-@import url("/inc/Styles/full.css") (min-width: 940px);*/
+
 @import url("../css/main.css");
 @import url("../css/media.css");
 /* Using a url */
